@@ -1,0 +1,9 @@
+.episodesDiv {
+    text-align: center;
+    background-color: lightpink;
+}
+
+li {
+    list-style-type: none;
+    text-justify: inter-word;
+ }
